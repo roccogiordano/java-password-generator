@@ -41,5 +41,12 @@ public class PasswordGenerator {
         Input.close();
 
         //
+
+
+        // Output Display
+
+        System.out.println("Your password is: " + FirstName + "-" + LastName + "-" + FavouriteColor + "-" + SumOfBirth);
+
+        //
     }
 }
